@@ -1,97 +1,77 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
-  jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
-  `,
+  baseUrl: " ",
+  name: "Roy Ayala Ruiz",
+  jobDescription: "Front-end Web Developer",
+  about: `a passionate web developer 💻 who loves turning ideas into reality. I enjoy crafting beautiful and functional websites using HTML, CSS, and JavaScript ✨. When I'm not coding, you can find me exploring the outdoors 🌳 or reading a good book 📚.
+  Let's connect and create something amazing together! 🤝🚀`,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
-      endDate: "Present",
+      name: "Web Developer",
+      location: " ",
+      startDate: "Feb 2022",
+      endDate: "Dec 2022",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "Responsible for the complete development of your website throughout the entire management using tools such as HTML, CSS, Javascript and WordPress.",
       ],
     },
-
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      name: "Mentor",
+      location: "Elemental Academia Tecnológica | La Paz",
+      startDate: "Oct 2022",
+      endDate: "Nov 2022",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
-      ],
-    },
-
-    {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
-      description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        "In charge as a mentor for young people interested in technology to be specific in 3D design for it was made use of tools such as OnShape and Tinkercad.",
       ],
     },
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
-      description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
-      ],
+      name: "High School Diploma",
+      location: 'Don Bosco "El Prado" | La Paz',
+      startDate: "2006",
+      endDate: "2017",
+      description: ["Diploma of high school"],
     },
     {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
+      name: "Computerized Systems",
+      location: 'Don Bosco "El Prado" | La Paz',
+      startDate: " ",
+      endDate: " ",
+      description: [" "],
     },
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "mailto:uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    facebook: "#",
+    twitter: "https://twitter.com/DevTroy_lp",
+    github: "https://github.com/Troy8203",
+    email: "troysg8203@gmail.com",
+    linkedin: "https://www.linkedin.com/in/roy-ayala-ruiz",
   },
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "Roy's Portfolio",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      githubUrl: "",
+      liveUrl: "",
+    },
+    {
+      title: "Roy's Portfolio",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio.png",
+      githubUrl: "",
+      liveUrl: "",
+    },
+    {
+      title: "Roy's Portfolio",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio.png",
+      githubUrl: "",
+      liveUrl: "",
     },
   ],
 };
